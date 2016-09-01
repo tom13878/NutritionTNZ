@@ -1,7 +1,7 @@
 #######################################
 ########## TANZANIA 2008-09 ###########
 #######################################
-
+# made a change to check if email is sent
 # Tom
 #dataPath <- "C:/Users/Tomas/Documents/LEI/data/TZA/TZA2008/Data"
 
